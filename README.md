@@ -2,7 +2,7 @@
 - 👀 I’m interested in VG and furries gf
 - 🌱 I’m currently learning HTML5, CSS, JS, .php
 - 📫 How to reach me : pls don't
-- 😄 Pronouns: they/them
+- 😄 Pronouns: any/they/them
 - ⚡ Fun fact: 🏴‍☠️🥐🥖
 
 <!---
